@@ -2,7 +2,7 @@
 | port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina |
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
-| 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | test |
+| 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
 | 7029 | OCV_TEST_3 | privole | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | ebill | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass test | test |
