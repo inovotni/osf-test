@@ -4,7 +4,7 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
 | 7029 | OCV_TEST_3 | privole | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | ebill | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | biometry | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass test | test |
 | 7059 | OCV_TEST_6 | mdm_multiple_oib | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
@@ -15,7 +15,7 @@
 | branch | opis | razvoj | test |
 | --- | --- | --- | --- |
 | master | ono što je trenutno na produkciji ili bugfiksevi koji idu na produkciju u sljedećem deployu | | |
-| ebill | | | |
+| biometry | biometrija faza 2. Slanje dokumentacije na mail | hrvoje, darko | |
 | privole | | hrvoje | |
 | steckerleiste  | | hrvoje, vice | |
 | mdm_multiple_oib  | | | |
