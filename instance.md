@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | master | ono što je trenutno na produkciji ili bugfiksevi koji idu na produkciju u sljedećem deployu | | |
 | biometry | biometrija faza 2. Slanje dokumentacije na mail | hrvoje, darko | |
-| privole | | hrvoje | |
+| privole | privole u MDM-u | hrvoje | |
 | steckerleiste  | | hrvoje, vice | |
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
