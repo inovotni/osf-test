@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  dev  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | privole | WPOSPP | compass test | dev |
+| 7029 | OCV_TEST_3 | magenta | WPOSPP | compass test | dev |
 | 7039 | OCV_TEST_4 | biometry | WPOSPP | compass test | dev |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | dev |
 | 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | dev |
@@ -21,6 +21,7 @@
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
 | mdm_prikljucci  | | tonci, hrvoje | | |
+| magenta  | | iva, darko, balic, hrvoje | | |
 
 ### Okoline
 1. mobilna
