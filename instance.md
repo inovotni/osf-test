@@ -1,14 +1,14 @@
 ### OSF instance
 | port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina |
 | --- | --- | --- | --- | --- | --- |
-| 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
+| 7009 | OCV_TEST |	master | WPOSPP | compass test   |  dev  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | privole | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | biometry | WPOSPP | compass test | test |
-| 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass test | test |
-| 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | mdm_prikljucci | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | privole | WPOSPP | compass test | dev |
+| 7039 | OCV_TEST_4 | biometry | WPOSPP | compass test | dev |
+| 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | dev |
+| 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | dev |
+| 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | dev |
+| 7079 (7078 https) | OCV_TEST_8 | mdm_prikljucci | WPOSPP | compass test | dev |
 
 
 ### Branchevi
