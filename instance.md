@@ -8,7 +8,7 @@
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | mdm_prikljucci | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | DDCPmagenta | WPOSPP | compass test | test |
 
 
 ### Branchevi
@@ -20,7 +20,7 @@
 | steckerleiste  | | hrvoje, vice | |
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
-| mdm_prikljucci  | | tonci, hrvoje | | |
+| DDCPmagenta  | administracija magente | tonci, hrvoje, balic, darko | | |
 | magenta  | | iva, darko, balic, hrvoje | | |
 
 ### Okoline
