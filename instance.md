@@ -3,12 +3,12 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | magenta | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | zaba | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | biometry | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | DDCPmagenta | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | filter_list_upgrade | WPOSPP | compass test | test |
 
 
 ### Branchevi
@@ -20,8 +20,9 @@
 | steckerleiste  | | hrvoje, vice | |
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
-| DDCPmagenta  | administracija magente | tonci, hrvoje, balic, darko | | |
+| zaba  | | iva, jopa | rus | |
 | magenta  | | iva, darko, balic, hrvoje | | |
+| filter_list_upgrade  | | hrvoje, vice | | |
 
 ### Okoline
 1. mobilna
