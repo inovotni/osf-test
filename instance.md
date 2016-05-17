@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | zaba | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | webtemplatei | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 |  | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | test |
@@ -23,6 +23,7 @@
 | zaba  | | iva, jopa | rus | |
 | magenta  | | iva, darko, balic, hrvoje | | |
 | filter_list_upgrade  | | hrvoje, vice | | |
+| webtemplatei?  | | matija | | |
 
 ### Okoline
 1. mobilna
