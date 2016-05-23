@@ -6,7 +6,7 @@
 | 7029 | OCV_TEST_3 | webtemplatei | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 |  | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | sales2015 | WPOSPP | compass test | test |
+| 7059 | OCV_TEST_6 | privole | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | filter_list_upgrade | WPOSPP | compass test | test |
 
