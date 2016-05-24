@@ -22,10 +22,10 @@
 | bundliranje | | hrvoje, domagoj | domagoj |
 | zaba  | | iva, jopa | rus | |
 | magenta  | | iva, darko, balic, hrvoje | | |
-| filter_list_upgrade  | | hrvoje, vice | | |
+| filter_list_upgrade  | cm lista | hrvoje, vice | | |
 | webtemplatei?  | | matija | | |
-| apn_4g | | mico, jopa, hrvoje | | |
-| m2m_msisdn_chg | | bojan, hrvoje | | |
+| apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | | |
+| m2m_msisdn_chg | izmjena msisdn-a kod administracije za neke tarife | bojan, hrvoje | | |
 
 ### Okoline
 1. mobilna
