@@ -5,8 +5,8 @@
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
 | 7029 | OCV_TEST_3 | webtemplatei | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 |  | MagentaOne  | ? | ? |
-| 7049 | OCV_TEST_5 | apn_4g + m2m_msisdn_chg | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | privole | WPOSPP | compass test | test |
+| 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
+| 7059 | OCV_TEST_6 | apn_4g + m2m_msisdn_chg + osf_lopte | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | filter_list_upgrade | WPOSPP | compass test | test |
 
@@ -20,12 +20,13 @@
 | steckerleiste  | | hrvoje, vice | |
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
-| zaba  | | iva, jopa | rus | |
-| magenta  | | iva, darko, balic, hrvoje | | |
-| filter_list_upgrade  | cm lista | hrvoje, vice | | |
-| webtemplatei?  | | matija | | |
-| apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | | |
-| m2m_msisdn_chg | izmjena msisdn-a kod administracije za neke tarife | bojan, hrvoje | | |
+| zaba  | | iva, jopa | rus |
+| magenta  | | iva, darko, balic, hrvoje | |
+| filter_list_upgrade  | cm lista | hrvoje, vice | |
+| webtemplatei?  | | matija | |
+| apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | |
+| m2m_msisdn_chg | izmjena msisdn-a kod administracije za neke tarife | bojan, hrvoje | |
+| osf_lopte  | | andro | darko |
 
 ### Okoline
 1. mobilna
