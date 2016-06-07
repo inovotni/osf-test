@@ -8,7 +8,7 @@
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | apn_4g + m2m_msisdn_chg + osf_lopte | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | bundliranje | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | filter_list_upgrade | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | energy | WPOSPP | compass test | test |
 
 
 ### Branchevi
@@ -27,6 +27,7 @@
 | apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | |
 | m2m_msisdn_chg | izmjena msisdn-a kod administracije za neke tarife | bojan, hrvoje | |
 | osf_lopte  | | andro | darko |
+| energy  | | iva |  |
 
 ### Okoline
 1. mobilna
