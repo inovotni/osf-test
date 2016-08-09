@@ -3,11 +3,11 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | webtemplatei | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | contacts_delmag | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 |  | MagentaOne  | ? | ? |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | m2m_data2voice | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | household | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | energy | WPOSPP | compass test | test |
 
 
