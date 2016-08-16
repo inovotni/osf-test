@@ -4,7 +4,7 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
 | 7029 | OCV_TEST_3 | contacts_delmag | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 |  | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | virtual basket | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | household | WPOSPP | compass test | test |
@@ -31,6 +31,8 @@
 | m2m_data2voice | promjena data prikljucka na voice | mico | bojan |
 | temp_canc | privremeno iskljucenje | novotni |  |
 | mdmAddressSynchro | uskladivanje mdm dostavne adrese | hrvoje |  |
+| virtual basket | faza1 | hrvoje |  |
+
 
 
 ### Okoline
