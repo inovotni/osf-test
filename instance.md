@@ -6,7 +6,7 @@
 | 7029 | OCV_TEST_3 | contacts_delmag | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 |  | MagentaOne  | ? | ? |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | temp_canc | WPOSPP | compass test | test |
+| 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | household | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | energy | WPOSPP | compass test | test |
 
@@ -30,6 +30,7 @@
 | energy  | | iva |  |
 | m2m_data2voice | promjena data prikljucka na voice | mico | bojan |
 | temp_canc | privremeno iskljucenje | novotni |  |
+| mdmAddressSynchro | uskladivanje mdm dostavne adrese | hrvoje |  |
 
 
 ### Okoline
