@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | contacts_delmag | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | magenta | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | virtual basket | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
@@ -21,7 +21,7 @@
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
 | zaba  | | iva, jopa | rus |
-| magenta  | | iva, darko, balic, hrvoje | |
+| magenta  | omoguceno dodavanje konvergentnih u magenta kosaricu | darko | |
 | filter_list_upgrade  | cm lista | hrvoje, vice | |
 | webtemplatei?  | | matija | |
 | apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | |
