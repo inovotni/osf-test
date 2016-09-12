@@ -7,7 +7,7 @@
 | 7039 | OCV_TEST_4 | virtual basket | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | household | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | privole | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | energy | WPOSPP | compass test | test |
 
 
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | master | ono što je trenutno na produkciji ili bugfiksevi koji idu na produkciju u sljedećem deployu | | |
 | biometry | biometrija faza 2. Slanje dokumentacije na mail | hrvoje, darko | |
-| privole | privole u MDM-u | hrvoje | |
+| privole | privole u MDM-u | ivana, macinkovic | |
 | steckerleiste  | | hrvoje, vice | |
 | sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
 | bundliranje | | hrvoje, domagoj | domagoj |
