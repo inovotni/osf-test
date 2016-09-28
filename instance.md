@@ -4,7 +4,7 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
 | 7029 | OCV_TEST_3 | magenta | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | virtual basket | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | voucheri | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | privole | WPOSPP | compass test | test |
@@ -32,6 +32,7 @@
 | temp_canc | privremeno iskljucenje | novotni |  |
 | mdmAddressSynchro | uskladivanje mdm dostavne adrese | hrvoje |  |
 | virtual basket | faza1 | hrvoje |  |
+| voucheri | | matija | |
 
 
 
