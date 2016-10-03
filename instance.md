@@ -7,7 +7,7 @@
 | 7039 | OCV_TEST_4 | voucheri | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | steckerleiste | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | temp_canc+mdmAddressSynchro | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | privole | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | optima | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | energy | WPOSPP | compass test | test |
 
 
@@ -33,6 +33,7 @@
 | mdmAddressSynchro | uskladivanje mdm dostavne adrese | hrvoje |  |
 | virtual basket | faza1 | hrvoje |  |
 | voucheri | | matija | |
+| optima | | ivana, hrvoje | domagoj |
 
 
 
