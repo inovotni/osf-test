@@ -8,7 +8,7 @@
 | 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | syncMdmData | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | nora | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | back_button | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | ht_svijet | WPOSPP | compass test | test |
 
 
 ### Branchevi
@@ -37,6 +37,7 @@
 | syncMdmData | i fiksna arpu-a | novotni, hrvoje | domagoj |
 | nora | | matija | |
 | back_button | | matija | |
+| ht_svijet | | matija, hrvoje | domagoj |
 
 
 
