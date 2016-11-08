@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | magenta | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | lampice | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | voucheri | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | syncMdmData | WPOSPP | compass test | test |
@@ -38,6 +38,7 @@
 | nora | | matija | |
 | back_button | | matija | |
 | ht_svijet | | matija, hrvoje | domagoj |
+| lampice | | hrvoje | darko |
 
 
 
