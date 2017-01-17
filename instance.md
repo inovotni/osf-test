@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
-| 7029 | OCV_TEST_3 | magenta_sfa_kontakti | WPOSPP | compass test | test |
+| 7029 | OCV_TEST_3 | ne_zovi | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | voucheri | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | syncMdmData | WPOSPP | compass test | test |
@@ -40,7 +40,7 @@
 | ht_svijet | | matija, hrvoje | domagoj |
 | lampice | | hrvoje | darko |
 | magenta_sfa_kontakti | | hrvoje | darko |
-
+| ne_zovi | | hrvoje | bojan |
 
 ### Okoline
 1. mobilna
