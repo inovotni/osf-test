@@ -6,8 +6,8 @@
 | 7029 | OCV_TEST_3 | ne_zovi | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | voucheri | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | syncMdmData | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | nora | WPOSPP | compass test | test |
+| 7059 | OCV_TEST_6 | biometryPh2 | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | voucher_hd | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | ht_svijet | WPOSPP | compass test | test |
 
 
@@ -41,6 +41,8 @@
 | lampice | | hrvoje | darko |
 | magenta_sfa_kontakti | | hrvoje | darko |
 | ne_zovi | | hrvoje | bojan |
+| biometryPh2 | | novotni | |
+
 
 ### Okoline
 1. mobilna
