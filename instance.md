@@ -8,7 +8,7 @@
 | 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | biometryPh2 | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | voucher_hd | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | ht_svijet | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | sepa | WPOSPP | compass test | test |
 
 
 ### Branchevi
@@ -43,7 +43,7 @@
 | ne_zovi | | hrvoje | bojan |
 | biometryPh2 | | novotni | |
 | bonus_insurance | | hrvoje | domagoj |
-
+| sepa | | matija | |
 
 
 ### Okoline
