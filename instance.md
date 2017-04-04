@@ -2,12 +2,12 @@
 | port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina |
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
-| 7019 | OCV_TEST_2 | master | WPOST | acc1 dev | dev |
+| 7019 | OCV_TEST_2 | magenta_tablet | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | sancta_domenica | WPOSPP | compass test | test |
-| 7049 | OCV_TEST_5 | temp_canc+mdmAddressSynchro | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | biometryPh2 | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | voucher_hd | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | ebill-verified+ne-zovi | WPOSPP | compass test | test |
+| 7049 | OCV_TEST_5 | m1_admin_refresh | WPOSPP | compass dev | test |
+| 7059 | OCV_TEST_6 | nextTv | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | slavonia | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | sepa | WPOSPP | compass test | test |
 
 
@@ -43,7 +43,9 @@
 | ne_zovi | | hrvoje | bojan |
 | biometryPh2 | | novotni | |
 | bonus_insurance | | hrvoje | domagoj |
-| sepa, sancta_domenica | | matija | |
+| sepa, sancta_domenica, slavonia, nexTv | | matija | |
+| m1_admin_refresh | refresh tarife nakon odabira "dodaj u postojecu magentu" | hrvoje | darko |
+| ebill-verified+ne-zovi | | novotni, hrvoje | darko, bojan |
 
 
 ### Okoline
