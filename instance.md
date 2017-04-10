@@ -4,7 +4,7 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | magenta_tablet | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | ebill-verified+ne-zovi | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | ne-zovi | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | m1_admin_refresh | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | nextTv | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | slavonia | WPOSPP | compass test | test |
