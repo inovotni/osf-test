@@ -7,7 +7,7 @@
 | 7039 | OCV_TEST_4 | ne-zovi | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | vpn_limit | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | nextTv | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | slavonia | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | new_mdm_contacts | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | sepa | WPOSPP | compass test | test |
 
 
@@ -47,7 +47,7 @@
 | m1_admin_refresh | refresh tarife nakon odabira "dodaj u postojecu magentu" | hrvoje | darko |
 | ebill-verified+ne-zovi | | novotni, hrvoje | darko, bojan |
 | vpn_limit | | hrvoje | balic, bojan |
-
+| new_mdm_contacts | | hrvoje | domagoj |
 
 
 ### Okoline
