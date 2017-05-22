@@ -4,10 +4,10 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | magenta_tablet | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | ne-zovi | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | adsl_pretplate | WPOSPP | compass test | test |
 | 7049 | OCV_TEST_5 | vpn_limit | WPOSPP | compass dev | test |
 | 7059 | OCV_TEST_6 | nextTv | WPOSPP | compass test | test |
-| 7069 | OCV_TEST_7 | new_mdm_contacts | WPOSPP | compass test | test |
+| 7069 | OCV_TEST_7 | webpos_cache | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | sepa | WPOSPP | compass test | test |
 
 
