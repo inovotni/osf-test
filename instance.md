@@ -4,51 +4,29 @@
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
 | 7019 | OCV_TEST_2 | magenta_tablet | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
-| 7039 | OCV_TEST_4 | adsl_pretplate | WPOSPP | compass test | test |
-| 7049 | OCV_TEST_5 | vpn_limit | WPOSPP | compass dev | test |
-| 7059 | OCV_TEST_6 | nextTv | WPOSPP | compass test | test |
+| 7039 | OCV_TEST_4 | sepa_admin | WPOSPP | compass test | test |
+| 7049 | OCV_TEST_5 | vpn_limit | WPOSPP | compass test | test |
+| 7059 | OCV_TEST_6 | multiscreen | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | webpos_cache | WPOSPP | compass test | test |
-| 7079 (7078 https) | OCV_TEST_8 | sepa | WPOSPP | compass test | test |
+| 7079 (7078 https) | OCV_TEST_8 | mudbug | WPOSPP | compass test | test |
 
 
 ### Branchevi
 | branch | opis | razvoj | test |
 | --- | --- | --- | --- |
 | master | ono što je trenutno na produkciji ili bugfiksevi koji idu na produkciju u sljedećem deployu | | |
-| biometry | biometrija faza 2. Slanje dokumentacije na mail | hrvoje, darko | |
-| privole | privole u MDM-u | ivana, macinkovic | |
 | steckerleiste  | | hrvoje, vice | |
-| sales2015  | ono sto je jos ostalo od sales projekta + masovni edit adresa | novotni, andro, hrvoje | darko |
-| bundliranje | | hrvoje, domagoj | domagoj |
-| zaba  | | iva, jopa | rus |
-| magenta  | omoguceno dodavanje konvergentnih u magenta kosaricu | darko | |
-| filter_list_upgrade  | cm lista | hrvoje, vice | |
-| webtemplatei?  | | matija | |
-| apn_4g | dodavanje i administracija apn-ova za poslovne korisnike | mico, jopa, hrvoje | |
-| m2m_msisdn_chg | izmjena msisdn-a kod administracije za neke tarife | bojan, hrvoje | |
-| osf_lopte  | | andro | darko |
-| energy  | | iva |  |
-| m2m_data2voice | promjena data prikljucka na voice | mico | bojan |
 | temp_canc | privremeno iskljucenje | novotni |  |
 | mdmAddressSynchro | uskladivanje mdm dostavne adrese | hrvoje |  |
-| virtual basket | faza1 | hrvoje |  |
-| voucheri | | matija | |
-| optima | | ivana, hrvoje | domagoj |
-| syncMdmData | i fiksna arpu-a | novotni, hrvoje | domagoj |
-| nora | | matija | |
-| back_button | | matija | |
-| ht_svijet | | matija, hrvoje | domagoj |
-| lampice | | hrvoje | darko |
-| magenta_sfa_kontakti | | hrvoje | darko |
-| ne_zovi | | hrvoje | bojan |
 | biometryPh2 | | novotni | |
 | bonus_insurance | | hrvoje | domagoj |
-| sepa, sancta_domenica, slavonia, nexTv | | matija | |
-| m1_admin_refresh | refresh tarife nakon odabira "dodaj u postojecu magentu" | hrvoje | darko |
-| ebill-verified+ne-zovi | | novotni, hrvoje | darko, bojan |
+| sepa, sancta_domenica, slavonia, nexTv, multiscreen | | matija | |
 | vpn_limit | | hrvoje | balic, bojan |
 | new_mdm_contacts | | hrvoje | domagoj |
-
+| sepa_admin | | hrvoje | darko |
+| webpos_cache | | hrvoje | balic |
+| magenta_tablet | | novotni | darko |
+| mudbug | | novotni | darko |
 
 ### Okoline
 1. mobilna
