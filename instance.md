@@ -2,10 +2,10 @@
 | port | ime instance	| deployani branch | mobilna okolina | fiksna okolina | mdm okolina |
 | --- | --- | --- | --- | --- | --- |
 | 7009 | OCV_TEST |	master | WPOSPP | compass test   |  test  |
-| 7019 | OCV_TEST_2 | magenta_tablet | WPOSPP | compass test | test |
+| 7019 | OCV_TEST_2 | external_policy | WPOSPP | compass test | test |
 | 7029 | OCV_TEST_3 | bonus_insurance | WPOSPP | compass test | test |
 | 7039 | OCV_TEST_4 | sepa_admin | WPOSPP | compass test | test |
-| 7049 | OCV_TEST_5 | vpn_limit | WPOSPP | compass test | test |
+| 7049 | OCV_TEST_5 | bus_spec_price | WPOSPP | compass test | test |
 | 7059 | OCV_TEST_6 | multiscreen | WPOSPP | compass test | test |
 | 7069 | OCV_TEST_7 | webpos_cache | WPOSPP | compass test | test |
 | 7079 (7078 https) | OCV_TEST_8 | mudbug | WPOSPP | compass test | test |
@@ -27,6 +27,9 @@
 | webpos_cache | | hrvoje | balic |
 | magenta_tablet | | novotni | darko |
 | mudbug | | novotni | darko |
+| bus_spec_price | | hrvoje | darko |
+| external_policy | | vuglec | domagoj |
+
 
 ### Okoline
 1. mobilna
